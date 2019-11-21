@@ -1,3 +1,5 @@
+idna-ssl==1.1.0 \
+    --hash=a933e3bb13da54383f9e8f35dc4f9cb9eb9b3b78c6b36f311254d6d0d92c6c7c
 typing-extensions==3.7.4.1 \
     --hash=sha256:091ecc894d5e908ac75209f10d5b4f118fbdb2eb1ede6a63544054bb1edb41f2 \
     --hash=sha256:910f4656f54de5993ad9304959ce9bb903f90aadc7c67a0bef07e678014e892d \
